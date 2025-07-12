@@ -4,8 +4,6 @@ I’m passionate about Machine Learning, Deep Learning, and a bit of Quant Finan
 
 ---
 
-### 📊 GitHub Stats
+### 👀 Visitor Counter
 
-![Dery's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeryFerd&show_icons=true&theme=radical)
-
----
+![Visitor Count](https://profile-counter.glitch.me/DeryFerd/count.svg)
