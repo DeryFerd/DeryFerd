@@ -6,5 +6,6 @@ I’m passionate about Machine Learning, Deep Learning, and a bit of Quant Finan
 
 ## 👀 Visitor Counter
 
-![Visitor Count](https://count.getloli.com/get/@DeryFerd?theme=github)
+![Hits](https://hits.dwyl.com/DeryFerd/DeryFerd.svg?style=flat-square)
+
 
