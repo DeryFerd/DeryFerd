@@ -4,8 +4,9 @@ I’m passionate about Machine Learning, Deep Learning, and a bit of Quant Finan
 
 ---
 
-## 👀 Visitor Counter
+### 🐍 Contribution Snake
 
-![Hits](https://hits.dwyl.com/DeryFerd/DeryFerd.svg?style=flat-square)
+![snake gif](https://github.com/DeryFerd/DeryFerd/blob/output/github-contribution-grid-snake-ocean.svg)
+
 
 
