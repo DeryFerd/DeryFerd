@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Dery!
 
-Hey there! 👋
-I’m a Mathematics graduate who’s diving deep into the world of data and AI. Most of my recent focus has been on Large Language Models — experimenting with finetuning, Retrieval-Augmented Generation (RAG), and exploring how LLMs can actually power real-world products. Outside of LLMs, I enjoy working on Machine Learning and Deep Learning projects, sometimes mixing in a bit of quant finance 📈. I also explore MLOps and data engineering because I believe good models deserve to scale beyond notebooks. This repo is my playground to share experiments, learning, and ideas in the AI space.
+I am a Mathematics graduate turned LLM Engineer and AI practitioner diving deep into the world of data. My recent work focuses heavily on Large Language Models and finding ways to make them power real world products. I spend a lot of time experimenting with model distillation, complex Retrieval-Augmented Generation (RAG), and building out AI Agents and Agentic AI workflows.
 
+Beyond just building models, I care about making them efficient and safe. I regularly explore LLMOps, inference optimization to keep resource costs low, and red teaming to test model vulnerabilities. Outside of the LLM space, I still really enjoy classic Machine Learning and Deep Learning projects. I also occasionally explore data engineering because I believe good models deserve to scale far beyond local notebooks.
+
+This repo is my playground to share my experiments, learning, and new ideas in the AI space!
 ---
 
 ### 🐍 Watch my contribution snake
