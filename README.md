@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+in+production;RAG+%7C+Agents+%7C+LLMOps+%7C+Inference+Optimization;Red+teaming+models+so+you+don't+have+to;Math+grad+who+never+stopped+experimenting)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DeryFerd&color=00d9ff&style=flat-square&label=profile+views)](https://github.com/DeryFerd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeryFerd-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/deryferd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeryFerd-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deryferdikaoktoriansah/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-deryferd.dev-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://deryferd.dev)
 
 </div>
