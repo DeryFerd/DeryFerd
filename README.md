@@ -15,7 +15,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DeryFerd&color=00d9ff&style=flat-square&label=profile+views)](https://github.com/DeryFerd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DeryFerd-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deryferdikaoktoriansah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-deryferd.dev-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://deryferd.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deryferd-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://deryferd.vercel.app/)
 
 </div>
 
