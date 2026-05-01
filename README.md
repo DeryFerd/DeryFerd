@@ -9,7 +9,7 @@
 ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝
 ```
 
-**`Math → Data → ML → LLM Engineer`**
+**`Math → Data → ML → LLM/AI Engineer`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+that+actually+works+in+production;RAG+%7C+Agents+%7C+LLMOps+%7C+Inference+Optimization;Red+teaming+models+so+you+don't+have+to;Math+grad+who+never+stopped+experimenting)](https://git.io/typing-svg)
 
