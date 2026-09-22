@@ -84,7 +84,7 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeryFerd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 
 <!-- Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=DeryFerd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=DeryFerd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF0000&fire=FF6B35&currStreakLabel=00D9FF" />
 
 </div>
 
